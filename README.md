@@ -1,7 +1,6 @@
-# Hackathon_2017
-AECOM Hackathon 2017 
+# AECOM Hackathon 2017
 
-**Team Name - **
+## **TeamName**
 
 Member | Role
 ---------|--------
