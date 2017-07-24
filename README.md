@@ -3,7 +3,7 @@ AECOM Hackathon 2017
 
 **Team Name - **
 
-**Member | Role**
+Member | Role
 ---------|--------
 Leti | Manager
 Bianca | Timekeeper
