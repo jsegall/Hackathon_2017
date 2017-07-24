@@ -1,6 +1,6 @@
-# AECOM Hackathon 2017
+# AECOM Hackathon '17
 
-## **TeamName**
+### **Oncotrons**
 
 Member | Role
 ---------|--------
