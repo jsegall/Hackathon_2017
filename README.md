@@ -3,7 +3,13 @@ AECOM Hackathon 2017
 
 **Team Name - **
 
-**Members - Leti, Greg, Jeff and Bianca**
+**Member | Role**
+---------|--------
+Leti | Manager
+Bianca | Timekeeper
+Greg | Lead Coder
+Jeffrey | ideas/guinea pig
+
 
 
 **Question:**
