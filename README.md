@@ -6,12 +6,18 @@ Member | Role
 ---------|--------
 Leti | Manager
 Bianca | Timekeeper
-Greg | Lead Coder
+Greg | Coder
 Jeffrey | ideas/guinea pig
+Daniel | Coder
 
+#### **Questions:**
 
+1.
 
-#### **Question:**
+2.
+
+3.
+
 
 
 
